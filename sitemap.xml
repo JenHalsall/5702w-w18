@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  
+  <url>
+    <loc>grad.craftingdigitalhistory.ca/#intro</loc>
+  </url>
+  
+  <url>
+    <loc>grad.craftingdigitalhistory.ca/#work</loc>
+  </url>
+  
+  <url>
+    <loc>grad.craftingdigitalhistory.ca/#about</loc>
+  </url>
+  
+  <url>
+    <loc>grad.craftingdigitalhistory.ca/#readings</loc>
+  </url>
+  
+  <url>
+    <loc>grad.craftingdigitalhistory.ca/#contact</loc>
+  </url>
+  
+  <url>
+    <loc>grad.craftingdigitalhistory.ca/#</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>grad.craftingdigitalhistory.ca/#</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>grad.craftingdigitalhistory.ca/#</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
