@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: grad.craftingdigitalhistory.ca/sitemap.xml
+Sitemap: https://shawngraham.github.io/5702w-w18//sitemap.xml
