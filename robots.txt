@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://shawngraham.github.io/5702w-w18/sitemap.xml
+Sitemap: /5702w-w18//sitemap.xml
