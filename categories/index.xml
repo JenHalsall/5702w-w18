@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Guerilla Digital Public History</title>
-    <link>/5702w-w18/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on Guerilla Digital Public History</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Shawn M Graham</copyright>
     
-	<atom:link href="/5702w-w18/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
