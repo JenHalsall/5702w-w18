@@ -31,12 +31,13 @@
     </item>
     
     <item>
-      <title>Readings</title>
+      <title>Warning</title>
       <link>https://shawngraham.github.io/5702w-w18/readings/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://shawngraham.github.io/5702w-w18/readings/</guid>
-      <description>Certain core texts serve as the spiritual and intellectual foundations for what we&amp;rsquo;re going to do - see below. Please also check the course wiki for topic specific readings as we move through the term.</description>
+      <description>This is a studio course. We will spend very little time in class on readings, as such; when we do discuss such things, it will be to provide context for what we are doing. I&amp;rsquo;m inspired very much by the work of historian Bill Turkle, who says to his own students in a similar kind of studio-led course,
+ Most of your in-class time will be devoted to experimenting with various kinds of technologies and learning how to apply them.</description>
     </item>
     
     <item>
@@ -45,8 +46,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://shawngraham.github.io/5702w-w18/get-started/</guid>
-      <description>As the schedule, readings, and work we do can change rapidly, I&amp;rsquo;m electing to use the Wiki attached to this course repository for handling any updates.
-Please check the course wiki for the latest information.</description>
+      <description>NB As the schedule, supporting readings, and work we do can change rapidly, I&amp;rsquo;m electing to use the Wiki attached to this course repository for handling any updates. Please check the course wiki for the latest course information &amp;amp; syllabus.
+At a minimum, you&amp;rsquo;ll need:
+ an account with Github or a domain of your own an account with Hypothesis  Whether or not you use your own name in any part of your username is up to you - you can be pseudonymous.</description>
     </item>
     
     <item>
